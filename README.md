@@ -2,7 +2,7 @@
 # Hi, I'm Deb! 👋
 
 ## 🚀 About Me
-I'm still Learning 🤙🏻
+I'm still learning 🤙🏻
 
 
 

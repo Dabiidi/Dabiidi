@@ -1,16 +1,20 @@
-### Hi there 👋
+<html>
 
-<!--
-**Dabiidi/Dabiidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<body>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">
+         <a href="https://facebook.com/dave.engracia">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" width="32" height="32"/>
+         </a>
+         <a href="https://www.linkedin.com/in/dave-leonard-jaguit-0199b7257/">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" width="32" height="32"/>
+         </a>
+         <a href="https://www.instagram.com/daaaaavz/">
+         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" width="32" height="32"/>
+         </a>
+ 
+</h2>
+  
+</body>
+  
+</html>

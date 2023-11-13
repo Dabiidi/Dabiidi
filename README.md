@@ -27,9 +27,16 @@ I'm still learning 🤙🏻
     <img src="https://readme-typing-svg.demolab.com?font=Line+Font&size=32&pause=1000&color=ffffff&center=true&vCenter=true&random=true&width=435&lines=Deb" alt="Typing SVG" />
   </a>
 </div>
-
 <img align="center" src="https://capsule-render.vercel.app/api?type=wave&color=000000&height=70&section=footer"/>
 
-  ![Snake animation](https://github.com/Dabiidi/Dabiidi/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>     
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dabiidi/Dabiidi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dabiidi/Dabiidi/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Dabiidi/Dabiidi/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
 
 
